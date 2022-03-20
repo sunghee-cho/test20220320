@@ -10,6 +10,7 @@ public class GithubHomeApplication {
 		SpringApplication.run(GithubHomeApplication.class, args);
 		System.out.println("깃헙부트실행");
 		System.out.println("수정후 깃헙 푸쉬");
+		System.out.println("내가 또 수정후 깃헙 푸쉬");
 	}
 
 }
